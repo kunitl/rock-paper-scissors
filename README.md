@@ -1,1 +1,2 @@
 # rock-paper-scissors
+This is a project to practice the basic JavaScript skills I've learned in the TOP Foundations Course, where I studied Variables and Operators, Data Types and Conditionals, JavaScript Developer Tools, Function Basics, Problem Solving, and Understanding Errors.

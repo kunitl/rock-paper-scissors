@@ -17,12 +17,18 @@ function getComputerChoice() {
       break;
   }
 }
-console.log(getComputerChoice());
+// console.log(getComputerChoice());
 
 // Step 3: Write the logic to get the human choice
 // Create a new function named getHumanChoice.
 // Write the code so that getHumanChoice will return one of the valid choices depending on what the user inputs.
 // Test what your function returns by using console.log.
+function getHumanChoice() {
+  let humanChoice = prompt("Rock, Paper, Scissors?: ");
+  return humanChoice;
+}
+
+// console.log(getHumanChoice());
 
 // Step 4: Declare the players score variables
 // Create two new variables named humanScore and computerScore in the global scope.

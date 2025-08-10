@@ -27,14 +27,13 @@ function getHumanChoice() {
   let humanChoice = prompt("Rock, Paper, Scissors?: ");
   return humanChoice;
 }
-
 // console.log(getHumanChoice());
 
 // Step 4: Declare the players score variables
 // Create two new variables named humanScore and computerScore in the global scope.
-
 // Initialize those variables with the value of 0.
-
+let humanScore = 0;
+let computerScore = 0;
 
 // Step 5: Write the logic to play a single round
 
